@@ -1,4 +1,4 @@
-# SVD-and-its-applications
+# SVD and its applications
 
 This repository presents a small research about Singular Value Decomposition (SVD) and its applications. Specifically, it summarizes 3 different forms of SVD. This will help prevent researchers from getting confused when sorting through literatures with different definitions of SVD. This project also demostrates 3 interesting applications of SVD. See `SVD Report.pdf` for details. Below is a brief summary of it.
 
