@@ -12,11 +12,12 @@ Given an 𝑚×𝑛 matrix 𝐴 and the factorization 𝐴 = 𝑈𝐷𝑉<sup>�
 |    Truncated (t≪r)    |        m*n       |        m*t       |        t*t       |            t*n           |
 
 ### Image compression application
+As an application of truncated version, SVD can be used to extract the most important features from images. As a result, the resulting image’s size will be much lesser that the original size. The idea is to apply rank-t truncated SVD on the matrix of pixels of an image. Below are the original image and images of different ranks:
 
 <p align="center">
-    <img src="./Image Compression/style/Horses.jpg" height="190"/>
-    <img src="./Image Compression/style/compression1.png" height="190"/>
-    <img src="./Image Compression/style/compression2.png" height="190"/>
+    <img src="./Image_Compression/style/Horses.jpg" height="190"/>
+    <img src="./Image_Compression/style/compression1.png" height="190"/>
+    <img src="./Image_Compression/style/compression2.png" height="190"/>
 </p>
 
 ## Disclaimer
